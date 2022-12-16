@@ -1,0 +1,14 @@
+import Common from '@styles/common'
+
+import TabBarHeaderStyle from '@styles/TabBarHeader'
+import FormStyle from '@styles/Form'
+import MainTabNavigator from '@styles/MainTabNavigator'
+
+module.exports = {
+  // Other
+  Common,
+  TabBarHeaderStyle,
+  MainTabNavigator,
+  FormStyle
+
+}
